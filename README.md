@@ -1,4 +1,5 @@
-# luojinlianxixiangmu
+# author: @king
+# name: management system
 
 ## 文件目录结构
 ```
@@ -20,7 +21,7 @@
                  —————— store ------  vuex
                 |
                 |
-                 —————— views ------- 项目文件
+                 —————— views ------- 项目开发文件
 |
 |_______babel.config.js babel配置项
 |
