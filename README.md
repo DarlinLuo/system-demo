@@ -1,24 +1,51 @@
 # luojinlianxixiangmu
 
-## Project setup
+## 文件目录结构
+```
+|
+|_______public---- 公共文件夹
+|
+|_______src------
+                |
+                |
+                 —————— assets----- 静态文件夹
+                |
+                |
+                 —————— components ----- 公共组件
+                |
+                |
+                 —————— router -------- 路由
+                |
+                |
+                 —————— store ------  vuex
+                |
+                |
+                 —————— views ------- 项目文件
+|
+|_______babel.config.js babel配置项
+|
+|_______package.json 包依赖
+|
+|_______vue.config.js Vue配置项       
+
+```
+
+## 项目安装依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包项目
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### 文件修复
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
