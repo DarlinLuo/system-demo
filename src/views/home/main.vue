@@ -1,6 +1,6 @@
 <template>
     <div id="mainbox">
-        nihoa
+        nihao
     </div>
 </template>
 <script>
