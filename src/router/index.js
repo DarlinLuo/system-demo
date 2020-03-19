@@ -12,7 +12,8 @@ const router = new Router({
             path:'/',
             redirect:'/index'
         },
-        {
+        {   
+            name:'index',
             path: '/index',
             component: resolve => require(['@/views/index.vue'], resolve),
             children:[
