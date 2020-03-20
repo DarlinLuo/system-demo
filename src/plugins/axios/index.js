@@ -1,158 +1,131 @@
-import axios from 'axios';
+import Vue from 'vue'
 
-axios.defaults.timeout = 5000;
-axios.defaults.baseURL ='http://www.baidu.com'; //填写域名
+import request from '@/plugins/axios/request'
+import { Loading } from 'element-ui'
 
-//http request 拦截器
-axios.interceptors.request.use(
-  config => {
-    config.data = JSON.stringify(config.data);
-    config.headers = {
-      'Content-Type':'application/x-www-form-urlencoded'
-    }
-    return config;
+import { transformRequestFn } from '@/utils/index'
+
+const version = 'v1.0.0'
+
+let urls = {
+  goods: require('./goods').default.api.get(version)
+}
+
+let debounceTimer
+const debounce = (fn, delay) => {
+  var delay = delay || 200
+
+  var th = this
+  var args = arguments
+  if (debounceTimer) {
+    clearTimeout(debounceTimer)
   }
-);
 
-//响应拦截器即异常处理
-axios.interceptors.response.use(response => {
-    return response
-}, err => {
-    if (err && err.response) {
-      switch (err.response.status) {
-        case 400:
-            console.log('错误请求')
-          break;
-        case 401:
-            console.log('未授权，请重新登录')
-          break;
-        case 403:
-          console.log('拒绝访问')
-          break;
-        case 404:
-          console.log('请求错误,未找到该资源')
-          break;
-        case 405:
-          console.log('请求方法未允许')
-          break;
-        case 408:
-          console.log('请求超时')
-          break;
-        case 500:
-          console.log('服务器端出错')
-          break;
-        case 501:
-          console.log('网络未实现')
-          break;
-        case 502:
-          console.log('网络错误')
-          break;
-        case 503:
-          console.log('服务不可用')
-          break;
-        case 504:
-          console.log('网络超时')
-          break;
-        case 505:
-          console.log('http版本不支持该请求')
-          break;
-        default:
-          console.log(`连接错误${err.response.status}`)
+  debounceTimer = setTimeout(function () {
+    debounceTimer = null
+    fn.apply(th, args)
+  }, delay)
+}
+
+let loading = null
+
+let item2Function = (item) => {
+  if (item['url']) {
+    return function (params = {}, options = {
+      showLoading: true,
+      isGetFormDataId: false,
+      isFormData: false,
+      config: {},
+      toUrlParams: false
+    }) {
+      if (options.showLoading === undefined) options.showLoading = true
+      if (options.config === undefined) options.config = {}
+      if (options.edit === undefined) options.edit = false
+
+      let dataKey = 'data'
+
+      if (item['method'] && (item['method'].toLowerCase() === 'get' || item['method'].toLowerCase() === 'delete')) {
+        dataKey = 'params'
       }
-    } else {
-      console.log('连接到服务器失败')
+
+      let url = `/${item['url']}` // 对应代理的/api
+      if (params.id && url.match(/\{id\}/)) {
+        url = url.replace(/\{id\}/, params.id)
+        // delete params.id;
+      }
+      if (params.brand_id && url.match(/\{brand_id\}/)) {
+        url = url.replace(/\{brand_id\}/, params.brand_id)
+      }
+      if (options.isGetFormDataId && url.match(/\{id\}/)) {
+        url = url.replace(/\{id\}/, params.get('id'))
+      }
+
+      if (options.toUrlParams) {
+        url = url + '?' + transformRequestFn(options.toUrlParams)
+      }
+
+      let formDataParams
+      // post请求，参数处理成formData格式
+      if (options.isFormData) {
+        formDataParams = new URLSearchParams()
+        for (let prop in params) {
+          if (params.hasOwnProperty(prop)) {
+            formDataParams.append(prop, params[prop])
+          }
+        }
+      }
+
+      if (options.showLoading) {
+        loading = Loading.service({
+          customClass: 'loading-bis-custom',
+          spinner: 'lit-gif-loading',
+          background: 'rgba(0,0,0,0.6)',
+          text: '数据加载中...',
+          fullscreen: true
+        })
+      }
+
+      return request({
+        url,
+        [dataKey]: options.isFormData ? formDataParams : params,
+        method: item['method'] ? item['method'] : 'get'
+      }).then(rs => {
+        if (options.showLoading && loading) {
+          debounce(function () {
+            loading.close()
+          }, 1000)
+        }
+        return rs.data
+      }).catch(err => {
+        // console.log(err)
+        if (options.showLoading && loading) {
+          loading.close()
+        }
+        throw new Error(err)
+        // return err.response ? err.response.data : { code: -400 } // 修改返回层级和正常一致
+      })
     }
-    return Promise.resolve(err.response)
-})
-
-
-/**
- * 封装get方法
- * @param url
- * @param data
- * @returns {Promise}
- */
-
-export function fetch(url,params={}){
-  return new Promise((resolve,reject) => {
-    axios.get(url,{
-      params:params
-    })
-    .then(response => {
-      resolve(response.data);
-    })
-    .catch(err => {
-      reject(err)
-    })
-  })
-}
-
-
-/**
- * 封装post请求
- * @param url
- * @param data
- * @returns {Promise}
- */
-
- export function post(url,data = {}){
-   return new Promise((resolve,reject) => {
-     axios.post(url,data)
-          .then(response => {
-            resolve(response.data);
-          },err => {
-            reject(err)
-          })
-   })
- }
-
- /**
- * 封装patch请求
- * @param url
- * @param data
- * @returns {Promise}
- */
-
-export function patch(url,data = {}){
-  return new Promise((resolve,reject) => {
-    axios.patch(url,data)
-         .then(response => {
-           resolve(response.data);
-         },err => {
-           reject(err)
-         })
-  })
-}
-
- /**
- * 封装put请求
- * @param url
- * @param data
- * @returns {Promise}
- */
-
-export function put(url,data = {}){
-  return new Promise((resolve,reject) => {
-    axios.put(url,data)
-         .then(response => {
-           resolve(response.data);
-         },err => {
-           reject(err)
-         })
-  })
-}
-
-/**
-* 下面是获取数据的接口
-*/
-/** 
-* 测试接口
-* 名称：exam
-* 参数：paramObj/null
-* 方式：fetch/post/patch/put
-*/
-export const server = {
-    exam: function(paramObj){
-        return post('/api.php?ac=v2_djList',paramObj);
+  } else {
+    return function () {
+      console.log('接口未定义')
     }
+  }
 }
+
+let tranUrls = (urls) => {
+  let apis = {}
+
+  for (let v in urls) {
+    apis[v] = urls[v].url ? item2Function(urls[v]) : tranUrls(urls[v])
+  }
+  return apis
+}
+export const api = tranUrls(urls)
+
+const apiInstall = {
+  install (Vue) {
+    Vue.prototype.$api = api //挂载到vue全局中使用
+  }
+}
+
+Vue.use(apiInstall)

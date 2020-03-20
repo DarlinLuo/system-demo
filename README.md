@@ -1,5 +1,5 @@
 # author: @king
-# name: management system
+# name: management system （vue + elementUI）
 
 ## 文件目录结构
 ```
@@ -15,6 +15,9 @@
                  —————— components ----- 公共组件
                 |
                 |
+                 —————— config ----- 环境配合
+                |
+                |
                  ______ plugins ------- 插件文件夹
                 |
                 |
@@ -22,6 +25,9 @@
                 |
                 |
                  —————— store ------  vuex
+                |
+                |
+                 ——————— utils ----- 过滤器
                 |
                 |
                  —————— views ------- 项目开发文件
