@@ -44,7 +44,6 @@ export default {
     background: lightskyblue;
     display: flex;
     justify-content: space-between;
-    // align-items: center;
     .title-name{
         width: 300px;
         height: 100%;
