@@ -17,13 +17,14 @@ const router = new Router({
             path: '/index',
             component: resolve => require(['@/views/index.vue'], resolve),
             children:[
+                ...home
             ],
             meta:{
                 keepAlive: false
             }
 
         },
-        ...home
+       
     ]
 })
 
