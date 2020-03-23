@@ -26,7 +26,7 @@ export default {
     width: 100%;
     height: 96%;
     margin-top: 10px;
-    box-shadow: 2px 2px 2px 2px lightgray;
+    /* box-shadow: 2px 2px 2px 2px lightgray; */
     }
 }
 </style>

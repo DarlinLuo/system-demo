@@ -18,7 +18,7 @@ export default[
     //定价路由
     {
       name:'goods.prices',
-      path:'/goods/prices',
+      path:'/goods/price-protection',
       component:resolve => void (require(['@/views/goods/prices.vue'], resolve)),
       meta: {
           keepAlive: false,
