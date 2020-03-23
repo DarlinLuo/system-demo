@@ -1,6 +1,7 @@
+
 <template>
     <div id="mainbox">
-        nihao
+        信息
     </div>
 </template>
 <script>
@@ -14,8 +15,5 @@ export default {
     font-size: 24px;
     font-weight: 500;
     margin: auto;
-    border: 1px solid red;
-    width: 500px;
-    height: 90%;
 }
 </style>

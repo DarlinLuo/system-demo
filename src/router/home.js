@@ -10,8 +10,22 @@ export default[
         meta: {
             keepAlive: false,
             breadcrumb: [
-              { name: '', href: null }
+              { name: '商品管理', href: null },
+              { name: '商品信息', href: null }
             ]
           }
-    }
+    },
+    //定价路由
+    {
+      name:'goods.prices',
+      path:'/goods/prices',
+      component:resolve => void (require(['@/views/goods/prices.vue'], resolve)),
+      meta: {
+          keepAlive: false,
+          breadcrumb: [
+            { name: '商品管理', href: null },
+            { name: '价格保护', href: null },
+          ]
+        }
+  }
 ]

@@ -13,10 +13,13 @@ const router = new Router({
             redirect:'/index'
         },
         {   
-            name:'index',
             path: '/index',
             component: resolve => require(['@/views/index.vue'], resolve),
             children:[
+                {
+                    path: '/',
+                    redirect: '/goods/prices'
+                  },
                 ...home
             ],
             meta:{
