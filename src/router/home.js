@@ -27,5 +27,31 @@ export default[
             { name: '价格保护', href: null },
           ]
         }
+  },
+  // 折扣上下限
+  {
+    name: 'goods.discount.limit',
+    path: '/goods/discount-limit',
+    component: resolve => void (require(['@/views/goods/discountLimit.vue'], resolve)),
+    meta: {
+      keepAlive: false,
+      breadcrumb: [
+        { name: '商品管理', href: null },
+        { name: '导入折扣上下线', href: null }
+      ]
+    }
+  },
+  // 导入商品定价
+  {
+    name: 'goods.pricing',
+    path: '/goods/pricing',
+    component: resolve => void (require(['@/views/goods/pricing.vue'], resolve)),
+    meta: {
+      keepAlive: false,
+      breadcrumb: [
+        { name: '商品管理', href: null },
+        { name: '导入定价列表', href: null }
+      ]
+    }
   }
 ]
