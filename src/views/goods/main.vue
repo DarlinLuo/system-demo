@@ -34,17 +34,6 @@
                 </template>
             </el-table-column>
         </el-table>
-        <!-- <div class="import-pagination">
-            <el-pagination
-                @size-change="handleSizeChange"
-                @current-change="handleCurrentChange"
-                :current-page="page.currentPage"
-                :page-sizes="[10, 20, 30]"
-                :page-size="page.pageSize"
-                layout="total, sizes, prev, pager, next, jumper"
-                :total="page.total">
-            </el-pagination>
-       </div> -->
        <el-dialog :title="!isUpdateBrand?'新增品牌':'修改品牌'" :visible.sync="isAddBrand" width="761px" @close="_onCloseDialog">
                <div class="brand-dialog-from">
                     <div class="from-lable">
