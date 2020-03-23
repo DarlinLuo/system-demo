@@ -2,7 +2,7 @@
     <div id="leftnav">
         <el-col :span="24">
             <el-menu
-                unique-opened = true
+                :unique-opened = "true"
                 default-active="2"
                 @open="handleOpen"
                 @close="handleClose"

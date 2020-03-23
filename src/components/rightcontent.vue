@@ -1,8 +1,8 @@
 <template>
     <div id="right-content">
-        <breadcrumb @hasBreadcrumb="hasBreadcrumb"></breadcrumb>
+        <breadcrumb></breadcrumb>
         <div class="content">
-            <router-view :style="{minHeight: `${maxHeight - (hasBreadcrumbBol ? 156 : 123)}px`}"></router-view>
+            <router-view ></router-view>
         </div>
     </div>
 </template>
@@ -12,17 +12,7 @@ import breadcrumb from '@/components/breadcrumb'
 export default {
     components: {
         breadcrumb
-    },
-    data (){
-        return{
-             hasBreadcrumbBol: false,
-        }
-    },
-    methods:{
-        hasBreadcrumb (bol) {
-            this.hasBreadcrumbBol = bol
-        },
-    },
+    }
     
 }
 </script>

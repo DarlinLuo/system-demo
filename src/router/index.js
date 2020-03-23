@@ -18,7 +18,7 @@ const router = new Router({
             children:[
                 {
                     path: '/',
-                    redirect: '/goods/prices'
+                    redirect: '/goods/main'
                   },
                 ...home
             ],
