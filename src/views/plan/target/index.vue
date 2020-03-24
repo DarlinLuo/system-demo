@@ -13,14 +13,14 @@
 <script>
 import storeTarget from './components/storeTarget.vue'
 import monthTarget from './components/monthTarget.vue'
-// import brandMixins from '../../../mixins/brandMixins'
+import brandMixins from '../../../mixins/brandMixins'
 export default {
   components: {
     storeTarget,
     monthTarget
   },
-  // name: 'target-index',
-  // mixins: [brandMixins],
+  name: 'target-index',
+  mixins: [brandMixins],
   data () {
     return {
       schedule: 0,

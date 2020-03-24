@@ -136,11 +136,11 @@
 import { toThousands, thousandToNumber } from '../../../utils/index'
 import PriceInput from '../../../components/PriceInput'
 import test from './test.json'
-// import brandMixins from '../../../mixins/brandMixins'
+import brandMixins from '../../../mixins/brandMixins'
 // import Decimal from 'decimal'
 export default {
-  // name: 'purchase-overall',
-  // mixins: [brandMixins],
+  name: 'purchase-overall',
+  mixins: [brandMixins],
   data () {
     return {
       overall_from: {

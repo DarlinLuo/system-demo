@@ -169,13 +169,13 @@
 <script>
 import { toThousands } from '../../../utils/index'
 import PriceInput from '../../../components/PriceInput'
-// import brandMixins from '../../../mixins/brandMixins'
+import brandMixins from '../../../mixins/brandMixins'
 export default {
-  // name: 'purchase-quarter',
+  name: 'purchase-quarter',
   components: {
     PriceInput
   },
-  // mixins: [brandMixins],
+  mixins: [brandMixins],
   data () {
     return {
       form_options: {
