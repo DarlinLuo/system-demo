@@ -112,9 +112,28 @@ export default {
     VueCropper
   },
   data () {
+    
     return {
       select_brand: '',
-      brandData: [],
+      brandData: [{
+        id: 3,
+        name: "安踏",
+        logo: null,
+        sort: 0,
+        enable: 1,
+        is_default: 1,
+        created_at: "2020-02-14 14:18:46",
+        updated_at: "2020-02-27 15:52:14"
+      },{
+        id: 1,
+        name: "南极人",
+        logo: null,
+        sort: 100,
+        enable: 1,
+        is_default: 0,
+        created_at: "2020-02-14 11:53:28",
+        updated_at: "2020-03-03 13:58:06"
+      }],
       page: {
         pageSize: 10, // 当前显示页数
         total: 10, // 总数
@@ -437,7 +456,7 @@ export default {
     }
   },
   created () {
-    this.getBrand()
+    // this.getBrand()
   }
 }
 </script>

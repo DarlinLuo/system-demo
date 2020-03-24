@@ -190,7 +190,7 @@ export default {
   data () {
     return {
       brand: [],
-      totalItems: 0, // 商品总个数
+      totalItems: 1, // 商品总个数
       newform: {
         groupName: ''
       },

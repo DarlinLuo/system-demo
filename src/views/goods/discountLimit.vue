@@ -180,7 +180,21 @@ export default {
           label: '导入中'
         }
       ],
-      tableData: [],
+      tableData: [
+          {
+          id: 12,
+          brand_name: '安踏',
+          name:'导入价格上下限工作表.xlsx',
+          created_at: "2020-03-05 10:31:15",
+          status:"4"
+        }, {
+          id: 4,
+          brand_name: 'cxk',
+          name:'导入价格上下限工作表.xlsx',
+          created_at: "2020-03-05 10:31:15",
+          status:"2"
+        }
+      ],
       form: { // 查询信息搜集
         page: 1,
         pageSize: 10,
@@ -189,8 +203,14 @@ export default {
         create_end_time: '',
         status: ''
       },
-      totalItems: 0,
-      brand: [],
+      totalItems: 2,
+      brand: [{
+        id:12,
+        name: '安踏'
+      },{
+        id: 4,
+        name: 'cxk'
+      }],
       addNewDialog: false,
       upload_url: 'aaa', // 随便填一个，但一定要有
       newform: { // 导入折扣上下线信息

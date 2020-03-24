@@ -163,7 +163,7 @@ export default {
         })
       }
     })
-    this.getList()
+    // this.getList()
   },
   data () {
     return {
@@ -182,7 +182,15 @@ export default {
           label: '导入中'
         }
       ],
-      tableData: [], // 商品列表信息
+      tableData: [
+        {
+          id: 12,
+          brand_name: '安踏',
+          name:'导入价格保护工作表.xlsx',
+          created_at: "2020-03-05 10:31:15",
+          status:"4"
+        }
+      ], // 商品列表信息
       // 查询信息搜集
       form: {
         page: 1,
@@ -192,8 +200,14 @@ export default {
         brand_id: '',
         status: ''
       },
-      totalItems: 0, // 每页上商品总条数
-      brand: [], // 导入菜单的商品列表
+      totalItems: 1, // 每页上商品总条数
+      brand: [{
+        id:12,
+        name: '安踏'
+      },{
+        id: 4,
+        name: '南极人'
+      }], // 导入菜单的商品列表
       addNewDialog: false, // 导入价格保护显示
       upload_url: 'aaa', // 随便填一个，但一定要有
       newform: {
