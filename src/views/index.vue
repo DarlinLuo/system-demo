@@ -12,13 +12,12 @@ import Header from '@/components/header'
 import Leftnav from '@/components/leftnav'
 import Rightcontent from '@/components/rightcontent'
 
-
 export default {
-    components:{
-        Header,
-        Leftnav,
-        Rightcontent
-    },
+  components: {
+    Header,
+    Leftnav,
+    Rightcontent
+  }
 }
 </script>
 <style lang="scss" scoped>

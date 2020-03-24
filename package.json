@@ -1,30 +1,77 @@
 {
-  "name": "luojinlianxixiangmu",
+  "name": "xpx-web-admin",
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "start": "npm run dll && npm run serve",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "build:dll": "npm run dll && npm run build",
+    "lint": "vue-cli-service lint",
+    "dll": "vue-cli-service dll"
   },
   "dependencies": {
-    "axios": "^0.19.2",
-    "core-js": "^3.6.4",
-    "element-ui": "^2.13.0",
+    "@riophae/vue-treeselect": "^0.4.0",
+    "axios": "^0.18.1",
+    "core-js": "^3.3.2",
+    "dateformat": "^3.0.3",
+    "decimal.js": "^10.2.0",
+    "echarts": "^4.4.0",
+    "element-ui": "^2.4.5",
     "exif-js": "^2.3.0",
-    "vue": "^2.6.11",
-    "vue-router": "^3.1.6"
+    "feather-icons": "^4.25.0",
+    "file-saver": "^2.0.2",
+    "font-awesome": "^4.7.0",
+    "html2canvas": "^1.0.0-rc.5",
+    "intro.js": "^2.9.3",
+    "jspdf": "^1.5.3",
+    "localforage": "^1.7.3",
+    "lodash": "^4.17.15",
+    "mockjs": "^1.1.0",
+    "moment": "^2.24.0",
+    "quill": "^1.3.7",
+    "uuid": "^7.0.1",
+    "vconsole": "^3.3.4",
+    "vue": "^2.6.10",
+    "vue-awesome-swiper": "^3.1.3",
+    "vue-clipboard2": "^0.3.1",
+    "vue-cropper": "^0.3.6",
+    "vue-introjs": "^1.3.2",
+    "vue-lazyload": "^1.3.3",
+    "vue-masonry": "^0.11.8",
+    "vue-quill-editor": "^3.0.6",
+    "vue-router": "^3.1.3",
+    "vuedraggable": "^2.23.2",
+    "vuex": "^3.0.1",
+    "xlsx": "^0.15.4"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.2.0",
-    "@vue/cli-plugin-eslint": "^4.2.0",
-    "@vue/cli-service": "^4.2.0",
+    "@babel/polyfill": "^7.4.4",
+    "@vue/cli-plugin-babel": "^4.0.0",
+    "@vue/cli-plugin-eslint": "^4.0.0",
+    "@vue/cli-plugin-router": "^4.0.0",
+    "@vue/cli-plugin-vuex": "^4.0.0",
+    "@vue/cli-service": "^4.0.0",
+    "@vue/eslint-config-standard": "^4.0.0",
     "babel-eslint": "^10.0.3",
     "babel-plugin-component": "^1.1.1",
-    "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^6.1.2",
-    "sass-loader": "^8.0.2",
-    "vue-template-compiler": "^2.6.11"
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "less": "^3.10.3",
+    "less-loader": "^5.0.0",
+    "lint-staged": "^9.4.2",
+    "mockjs": "^1.1.0",
+    "node-sass": "^4.12.0",
+    "popper.js": "^1.15.0",
+    "portal-vue": "^2.1.4",
+    "sass-loader": "^8.0.0",
+    "script-loader": "^0.7.2",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
+    "vue-cli-plugin-axios": "0.0.4",
+    "vue-cli-plugin-dll": "^1.1.11",
+    "vue-cli-plugin-element": "^1.0.1",
+    "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {
     "root": true,
@@ -33,15 +80,37 @@
     },
     "extends": [
       "plugin:vue/essential",
-      "eslint:recommended"
+      "@vue/standard"
     ],
+    "rules": {
+      "indent": [
+        "error",
+        2,
+        {
+          "SwitchCase": 1
+        }
+      ]
+    },
     "parserOptions": {
       "parser": "babel-eslint"
-    },
-    "rules": {}
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
   },
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.{js,vue}": [
+      "vue-cli-service lint",
+      "git add"
+    ]
+  }
 }

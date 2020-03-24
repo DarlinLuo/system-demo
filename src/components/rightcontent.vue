@@ -10,10 +10,10 @@
 import breadcrumb from '@/components/breadcrumb'
 
 export default {
-    components: {
-        breadcrumb
-    }
-    
+  components: {
+    breadcrumb
+  }
+
 }
 </script>
 <style scoped lang = "scss">

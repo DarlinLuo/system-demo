@@ -186,9 +186,9 @@ export default {
         {
           id: 12,
           brand_name: '安踏',
-          name:'导入价格保护工作表.xlsx',
-          created_at: "2020-03-05 10:31:15",
-          status:"4"
+          name: '导入价格保护工作表.xlsx',
+          created_at: '2020-03-05 10:31:15',
+          status: '4'
         }
       ], // 商品列表信息
       // 查询信息搜集
@@ -202,9 +202,9 @@ export default {
       },
       totalItems: 1, // 每页上商品总条数
       brand: [{
-        id:12,
+        id: 12,
         name: '安踏'
-      },{
+      }, {
         id: 4,
         name: '南极人'
       }], // 导入菜单的商品列表

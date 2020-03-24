@@ -1,0 +1,2831 @@
+{
+    "overallMap": {
+        "code": 0,
+        "data": {
+            "default": {
+                "1": {
+                    "1": {
+                        "1": {
+                            "goods_type": 1,
+                            "sale_percent": 100,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 10000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 1,
+                            "sale_percent": 100,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 10000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 1,
+                            "sale_percent": 100,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 10000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 1,
+                            "sale_percent": 100,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 10000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "10": {
+                    "2": {
+                        "1": {
+                            "goods_type": 2,
+                            "sale_percent": 100,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 10000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 2,
+                            "sale_percent": 100,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 10000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 2,
+                            "sale_percent": 100,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 10000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 2,
+                            "sale_percent": 100,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 10000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "11": {
+                    "1": {
+                        "1": {
+                            "goods_type": 1,
+                            "sale_percent": 20,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 2000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 1,
+                            "sale_percent": 35,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3500000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 1,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 1,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "2": {
+                        "1": {
+                            "goods_type": 2,
+                            "sale_percent": 80,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 8000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 2,
+                            "sale_percent": 65,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 6500000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 2,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 2,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "100": {
+                    "3": {
+                        "1": {
+                            "goods_type": 3,
+                            "sale_percent": 100,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 10000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 3,
+                            "sale_percent": 100,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 10000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 3,
+                            "sale_percent": 100,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 10000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 3,
+                            "sale_percent": 100,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 10000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "101": {
+                    "1": {
+                        "1": {
+                            "goods_type": 1,
+                            "sale_percent": 90,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 9000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 1,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 1,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 1,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "3": {
+                        "1": {
+                            "goods_type": 3,
+                            "sale_percent": 10,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 1000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 3,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 3,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 3,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "110": {
+                    "2": {
+                        "1": {
+                            "goods_type": 2,
+                            "sale_percent": 90,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 9000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 2,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 2,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 2,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "3": {
+                        "1": {
+                            "goods_type": 3,
+                            "sale_percent": 10,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 1000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 3,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 3,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 3,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "111": {
+                    "1": {
+                        "1": {
+                            "goods_type": 1,
+                            "sale_percent": 20,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 2000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 1,
+                            "sale_percent": 30,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 1,
+                            "sale_percent": 33,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3300000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 1,
+                            "sale_percent": 33,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3300000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "2": {
+                        "1": {
+                            "goods_type": 2,
+                            "sale_percent": 70,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 7000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 2,
+                            "sale_percent": 55,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5500000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 2,
+                            "sale_percent": 33,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3300000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 2,
+                            "sale_percent": 33,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3300000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "3": {
+                        "1": {
+                            "goods_type": 3,
+                            "sale_percent": 10,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 1000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 3,
+                            "sale_percent": 15,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 1500000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 3,
+                            "sale_percent": 34,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3400000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 3,
+                            "sale_percent": 34,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3400000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "1000": {
+                    "4": {
+                        "1": {
+                            "goods_type": 4,
+                            "sale_percent": 100,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 10000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 4,
+                            "sale_percent": 100,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 10000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 4,
+                            "sale_percent": 100,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 10000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 4,
+                            "sale_percent": 100,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 10000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "1001": {
+                    "1": {
+                        "1": {
+                            "goods_type": 1,
+                            "sale_percent": 92,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 9200000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 1,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 1,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 1,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "4": {
+                        "1": {
+                            "goods_type": 4,
+                            "sale_percent": 8,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 800000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 4,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 4,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 4,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "1010": {
+                    "2": {
+                        "1": {
+                            "goods_type": 2,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 2,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 2,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 2,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "4": {
+                        "1": {
+                            "goods_type": 4,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 4,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 4,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 4,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "1011": {
+                    "1": {
+                        "1": {
+                            "goods_type": 1,
+                            "sale_percent": 20,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 2000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 1,
+                            "sale_percent": 35,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3500000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 1,
+                            "sale_percent": 33,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3300000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 1,
+                            "sale_percent": 33,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3300000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "2": {
+                        "1": {
+                            "goods_type": 2,
+                            "sale_percent": 72,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 7200000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 2,
+                            "sale_percent": 55,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5500000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 2,
+                            "sale_percent": 33,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3300000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 2,
+                            "sale_percent": 33,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3300000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "4": {
+                        "1": {
+                            "goods_type": 4,
+                            "sale_percent": 8,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 800000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 4,
+                            "sale_percent": 10,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 1000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 4,
+                            "sale_percent": 34,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3400000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 4,
+                            "sale_percent": 34,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3400000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "1100": {
+                    "3": {
+                        "1": {
+                            "goods_type": 3,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 3,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 3,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 3,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "4": {
+                        "1": {
+                            "goods_type": 4,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 4,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 4,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 4,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "1101": {
+                    "1": {
+                        "1": {
+                            "goods_type": 1,
+                            "sale_percent": 82,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 8200000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 1,
+                            "sale_percent": 33,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3300000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 1,
+                            "sale_percent": 33,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3300000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 1,
+                            "sale_percent": 33,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3300000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "3": {
+                        "1": {
+                            "goods_type": 3,
+                            "sale_percent": 10,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 1000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 3,
+                            "sale_percent": 33,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3300000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 3,
+                            "sale_percent": 33,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3300000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 3,
+                            "sale_percent": 33,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3300000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "4": {
+                        "1": {
+                            "goods_type": 4,
+                            "sale_percent": 8,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 800000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 4,
+                            "sale_percent": 34,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3400000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 4,
+                            "sale_percent": 34,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3400000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 4,
+                            "sale_percent": 34,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3400000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "1110": {
+                    "2": {
+                        "1": {
+                            "goods_type": 2,
+                            "sale_percent": 72,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 7200000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 2,
+                            "sale_percent": 33,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3300000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 2,
+                            "sale_percent": 33,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3300000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 2,
+                            "sale_percent": 55,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5500000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "3": {
+                        "1": {
+                            "goods_type": 3,
+                            "sale_percent": 20,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 2000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 3,
+                            "sale_percent": 33,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3300000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 3,
+                            "sale_percent": 33,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3300000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 3,
+                            "sale_percent": 35,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3500000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "4": {
+                        "1": {
+                            "goods_type": 4,
+                            "sale_percent": 8,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 800000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 4,
+                            "sale_percent": 34,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3400000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 4,
+                            "sale_percent": 34,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3400000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 4,
+                            "sale_percent": 10,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 1000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "1111": {
+                    "1": {
+                        "1": {
+                            "goods_type": 1,
+                            "sale_percent": 20,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 2000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 1,
+                            "sale_percent": 30,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 1,
+                            "sale_percent": 15,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 1500000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 1,
+                            "sale_percent": 15,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 1500000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "2": {
+                        "1": {
+                            "goods_type": 2,
+                            "sale_percent": 62,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 6200000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 2,
+                            "sale_percent": 52,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5200000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 2,
+                            "sale_percent": 70,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 7000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 2,
+                            "sale_percent": 50,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 5000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "3": {
+                        "1": {
+                            "goods_type": 3,
+                            "sale_percent": 10,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 1000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 3,
+                            "sale_percent": 10,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 1000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 3,
+                            "sale_percent": 10,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 1000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 3,
+                            "sale_percent": 30,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 3000000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "4": {
+                        "1": {
+                            "goods_type": 4,
+                            "sale_percent": 8,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 800000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 4,
+                            "sale_percent": 8,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 800000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 4,
+                            "sale_percent": 5,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 500000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 4,
+                            "sale_percent": 5,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 500000,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                }
+            },
+            "calculate": {
+                "1": {
+                    "1": {
+                        "1": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "10": {
+                    "2": {
+                        "1": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "11": {
+                    "1": {
+                        "1": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "2": {
+                        "1": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "100": {
+                    "3": {
+                        "1": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "101": {
+                    "1": {
+                        "1": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "3": {
+                        "1": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "110": {
+                    "2": {
+                        "1": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "3": {
+                        "1": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "111": {
+                    "1": {
+                        "1": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "2": {
+                        "1": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "3": {
+                        "1": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "1000": {
+                    "4": {
+                        "1": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "1001": {
+                    "1": {
+                        "1": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "4": {
+                        "1": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "1010": {
+                    "2": {
+                        "1": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "4": {
+                        "1": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "1011": {
+                    "1": {
+                        "1": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "2": {
+                        "1": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "4": {
+                        "1": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "1100": {
+                    "3": {
+                        "1": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "4": {
+                        "1": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "1101": {
+                    "1": {
+                        "1": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "3": {
+                        "1": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "4": {
+                        "1": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "1110": {
+                    "2": {
+                        "1": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "3": {
+                        "1": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "4": {
+                        "1": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                },
+                "1111": {
+                    "1": {
+                        "1": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 1,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "2": {
+                        "1": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 2,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "3": {
+                        "1": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 3,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    },
+                    "4": {
+                        "1": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "2": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "3": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        },
+                        "4": {
+                            "goods_type": 4,
+                            "sale_percent": 0,
+                            "digestibility": 0,
+                            "standard_amount": 0,
+                            "expected_saleroom": 0,
+                            "expected_standard_amount": 0,
+                            "inventory_standard_amount": 0,
+                            "annual_cumulative_discount": 0
+                        }
+                    }
+                }
+            }
+        },
+        "msg": "ok"
+    },
+    "overallHeader": {
+        "code": 0,
+        "data": {
+            "inventory": {
+                "standard_amount": "0",
+                "saleroom": "0",
+                "sales_percent": "0",
+                "num": "0",
+                "annual_cumulative_discount": "0",
+                "sku_num": 0,
+                "spu_num": 0
+            },
+            "purchase_calculate_type": 1,
+            "emphasis_type": 3,
+            "target": {
+                "brand_id": 1,
+                "brand_name": "\u8fbe\u8863\u5ca9",
+                "target_year": 2020,
+                "target_saleroom": 10000000,
+                "id": 3
+            },
+            "list": [
+                {
+                    "id": 154,
+                    "brand_target_id": 3,
+                    "goods_type": 2,
+                    "expected_saleroom": 3300000,
+                    "sale_percent": 33,
+                    "standard_amount": 0,
+                    "digestibility": 0,
+                    "inventory_standard_amount": 0,
+                    "annual_cumulative_discount": 0,
+                    "created_at": "2020-01-08 16:00:52",
+                    "updated_at": "2020-01-14 14:00:59",
+                    "expected_standard_amount": 0,
+                    "condition": "{\"list\":[{\"year\":2018,\"emphasis_type\":1,\"percent\":\"34\"},{\"year\":2019,\"emphasis_type\":1,\"percent\":\"33\"},{\"year\":2020,\"emphasis_type\":1,\"percent\":\"33\"}],\"sales_months\":{\"start\":1,\"end\":12}}"
+                },
+                {
+                    "id": 155,
+                    "brand_target_id": 3,
+                    "goods_type": 1,
+                    "expected_saleroom": 3300000,
+                    "sale_percent": 33,
+                    "standard_amount": 0,
+                    "digestibility": 0,
+                    "inventory_standard_amount": 0,
+                    "annual_cumulative_discount": 0,
+                    "created_at": "2020-01-08 16:00:52",
+                    "updated_at": "2020-01-11 16:36:13",
+                    "expected_standard_amount": 0,
+                    "condition": "{\"list\":[{\"year\":2020,\"emphasis_type\":1,\"percent\":100}],\"sales_months\":{\"start\":1,\"end\":12}}"
+                },
+                {
+                    "id": 158,
+                    "brand_target_id": 3,
+                    "goods_type": 4,
+                    "expected_saleroom": 3400000,
+                    "sale_percent": 34,
+                    "standard_amount": 0,
+                    "digestibility": 0,
+                    "inventory_standard_amount": 0,
+                    "annual_cumulative_discount": 0,
+                    "created_at": "2020-01-11 16:36:13",
+                    "updated_at": "2020-01-11 16:36:13",
+                    "expected_standard_amount": 0,
+                    "condition": null
+                }
+            ]
+        },
+        "msg": "ok"
+    }
+}

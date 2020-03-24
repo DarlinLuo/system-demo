@@ -124,7 +124,7 @@ export const api = tranUrls(urls)
 
 const apiInstall = {
   install (Vue) {
-    Vue.prototype.$api = api //挂载到vue全局中使用
+    Vue.prototype.$api = api // 挂载到vue全局中使用
   }
 }
 
