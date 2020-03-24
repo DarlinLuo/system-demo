@@ -156,13 +156,13 @@
 import PriceInput from '../../../components/PriceInput'
 import toThousands from '../../../utils/index'
 // import Decimal from 'decimal.js'
-// import brandMixins from '../../../mixins/brandMixins'
+import brandMixins from '../../../mixins/brandMixins'
 export default {
-  // name: 'category',
+  name: 'category',
   components: {
     PriceInput
   },
-  // mixins: [brandMixins],
+  mixins: [brandMixins],
   data () {
     return {
       tableList: [],
