@@ -526,7 +526,7 @@ export default {
     let starYear = this.year - this.year_threshold
     let endYear = this.year + this.year_threshold
     this.brandID = this.$store.state.brand.selectBrand.id.toString()
-    this.getbrandyearid(this.brandID)
+    // this.getbrandyearid(this.brandID)
     for (let i = starYear; i <= endYear; i++) {
       this.planyears.push(i)
     }
