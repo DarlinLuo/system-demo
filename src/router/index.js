@@ -3,6 +3,7 @@ import Router from 'vue-router'
 
 import home from '@/router/home.js'
 import plan from '@/router/plan.js'
+import scheme from '@/router/scheme.js'
 
 Vue.use(Router)
 
@@ -22,7 +23,8 @@ const router = new Router({
           redirect: '/goods/main'
         },
         ...home,
-        ...plan
+        ...plan,
+        ...scheme
       ],
       meta: {
         keepAlive: false

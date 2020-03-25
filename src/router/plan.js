@@ -6,7 +6,7 @@ export default [
   {
     name: 'plan.planlist',
     path: '/plan/plan-list',
-    component: resolve => require(['@/views//plan/planList/planList.vue'], resolve),
+    component: resolve => require(['@/views/plan/planList/planList.vue'], resolve),
     meta: {
       keepAlive: false,
       breadcrumb: [{
@@ -24,7 +24,7 @@ export default [
   {
     name: 'plan.target.index',
     path: '/plan/target/index/:id/:type/:year',
-    component: resolve => require(['@/views//plan/target/index.vue'], resolve),
+    component: resolve => require(['@/views/plan/target/index.vue'], resolve),
     meta: {
       keepAlive: false,
       breadcrumb: [{
