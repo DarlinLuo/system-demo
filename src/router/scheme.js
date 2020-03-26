@@ -37,4 +37,21 @@ export default [
       }
       ]
     }
+  }, // 店铺列表
+  {
+    name: 'scheme.records',
+    path: '/scheme/records',
+    component: resolve => require(['@/views/scheme/records.vue'], resolve),
+    meta: {
+      keepAlive: false,
+      breadcrumb: [{
+        name: '策划列表',
+        href: null
+      },
+      {
+        name: '策划页面',
+        href: null
+      }
+      ]
+    }
   }]
